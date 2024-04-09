@@ -27,3 +27,8 @@
 
 - TypeScript
 - React
+
+## 인공지능 기술 스택
+
+- PyTorch
+- HuggingFace

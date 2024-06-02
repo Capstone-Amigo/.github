@@ -6,6 +6,10 @@
 
 "OrderIt"은 음성인식 기술을 활용하여 사용자가 키오스크를 통해 메뉴를 추가하고 주문을 결제할 수 있는 서비스입니다.
 
+### 관련 링크 및 영상
+[링크](https://www.ideaboom.net/project/project/view?seq=1601&comp_seq=94&search_keyword=%EC%98%A4%EB%8D%94&data_seq[]=1&data_seq[]=2&data_seq[]=3&data_seq[]=4&data_seq[]=5&data_seq[]=6&data_seq[]=7&data_seq[]=8&data_seq[]=9&data_seq[]=10&data_seq[]=11&data_seq[]=12&data_seq[]=13&order=reg)
+
+
 ## 주요 기능
 
 - 음성인식을 통한 메뉴 추가
